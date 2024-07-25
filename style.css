@@ -1,7 +1,7 @@
 .imagem-logo{
     display: flex;
     justify-content:center;
-    width: 3000px;
+    width: 50%;
     padding: 15px;
     margin: 80%;
 }
