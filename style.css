@@ -46,7 +46,7 @@ body{
     bottom: -50%;
     padding: 15px;
     opacity: 0;
-    transition: 0.5s bottom, 1.75s opacity ;
+    transition: 0.5s bottom, 1.75s opacity;
 }
 .info .p {
      font-size: 20px;
