@@ -49,11 +49,11 @@ body{
     opacity: 0;
     transition: 0.5s bottom, 1.75s opacity ;
 }
-.info p {
+.info .p {
      font-size: 14px;
      margin-top: 3px;
 }
-.info button {
+.info .button {
     background: #490ccc;
     border: none;
     padding: 8px 12px;
