@@ -61,3 +61,18 @@ body{
     border-radius: 8px;
     margin-top: 8px;
 }
+.card:hover,
+.card:hover img
+.card:hover layer {
+    transform: scale(1.1);
+}
+.card:hover > .layer {
+    opacity: 1;
+}
+.card:hover > .info {
+    bottom: 0;
+    opacity: 1;
+}
+.card-group:hover > .card:not(:hover){
+    filter: blur(5px);
+}
