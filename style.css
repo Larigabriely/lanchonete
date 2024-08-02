@@ -53,12 +53,12 @@ body{
      margin-top: 3px;
 }
 .info .button {
-    background: #490ccc;
+    background: #000000;
     border: none;
     padding: 8px 12px;
     font-weight: bold;
-    border-radius: 8px;
-    margin-top: 8px;
+    border-radius: 16px;
+    margin-top: 10px;
 }
 .card:hover,
 .card:hover .img
