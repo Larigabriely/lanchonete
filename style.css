@@ -15,10 +15,7 @@ body{
     align-items: center;
     justify-content: center;
 }
-.card-group {
-    display: flex;
-    gap: 25px;
-}
+
 .card {
     width: 225px;
     height: 400px;
