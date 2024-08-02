@@ -51,6 +51,7 @@ body{
 .info .p {
      font-size: 20px;
      margin-top: 15px;
+     margin: 40px;
 }
 .info .button {
     background: #000000;
