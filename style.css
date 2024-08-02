@@ -61,8 +61,8 @@ body{
     margin-top: 8px;
 }
 .card:hover,
-.card:hover .img
-.card:hover .layer {
+.card:hover img,
+.card:hover layer {
     transform: scale(1.1);
 }
 .card:hover > .layer {
