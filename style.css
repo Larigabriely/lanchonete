@@ -49,8 +49,8 @@ body{
     transition: 0.5s bottom, 1.75s opacity ;
 }
 .info .p {
-     font-size: 299px;
-     margin-top: 3px;
+     font-size: 20px;
+     margin-top: 15px;
 }
 .info .button {
     background: #000000;
