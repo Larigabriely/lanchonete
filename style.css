@@ -57,8 +57,8 @@ body{
     border: none;
     padding: 8px 12px;
     font-weight: bold;
-    border-radius: 16px;
-    margin-top: 10px;
+    border-radius: 8px;
+    margin-top: 8px;
 }
 .card:hover,
 .card:hover .img
