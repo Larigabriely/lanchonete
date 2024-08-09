@@ -55,7 +55,7 @@ body{
      margin-top: 35px;
 }
 .info .button {
-    backrgb(0, 0, 0)40, 240);
+    background: black;
     border: none;
     padding: 8px 12px;
     font-weight: bold;
