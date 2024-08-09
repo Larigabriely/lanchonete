@@ -59,7 +59,7 @@ body{
     border: none;
     padding: 8px 12px;
     font-weight: bold;
-    border-radius: 10%;
+    border-radius: 8px;
     margin-top: 8px;
 }
 .titulo{
