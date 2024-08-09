@@ -50,7 +50,7 @@ body{
 }
 .info .p {
      font-size: 20px;
-     align-items: center;
+     align-content: center;
      padding: 45px;
      margin-top: 15px;
 }
