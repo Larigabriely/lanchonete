@@ -8,7 +8,7 @@
     color: white;
 }
 body{
-    background: #173563;
+    background: linear-gradient(blue,rgb(2, 126, 175));
     width: 100%;
     height: 100vh;
     display: flex;
