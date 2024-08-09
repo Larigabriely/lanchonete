@@ -65,8 +65,8 @@ body{
 .titulo{
     display: flex;
     justify-content: center;
-    margin-top: 40px;
-    padding: 500px;
+    margin-top: 20px;
+    padding: 15px;
 }
 .card:hover,
 .card:hover img,
