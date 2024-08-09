@@ -55,11 +55,11 @@ body{
      margin-top: 35px;
 }
 .info .button {
-    background: #000000;
+    background-color: black;
     border: none;
-    padding: 8px 12px;
+    padding: 14kjpx 12px;
     font-weight: bold;
-    border-radius: 8px;
+    border-radius: 10%;
     margin-top: 15px;
 }
 .titulo{
