@@ -27,7 +27,7 @@ body {
 }
 
 .card .layer {
-    background-color: white;
+    background: linear-gradient(to top,rgb(0, 0, 0, 1),rgb(0, 0, 0, 0));
     position: absolute;
     bottom: 0%;
     width: 100%;
